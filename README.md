@@ -1,13 +1,20 @@
-# K-Means — Interactive Data Mining Lab
+<div align="center">
 
-## خوارزمية K-Means | K-Means
+# 🔵 K-Means — Interactive Data Mining Lab
+### خوارزمية K-Means | مختبر تعليمي تفاعلي
+
+**العربية | English · Interactive · Offline-ready**
+
+**[🚀 Open Interactive Lesson | افتح الدرس التفاعلي](https://mohammednageebmubarak.github.io/kmeans-interactive/)**
+
+</div>
 
 An offline-ready **single-file bilingual (Arabic/English) interactive lesson** for Master's-level Information Systems learners and introductory Data Mining study.
 
 درس تفاعلي عربي/إنجليزي عن **خوارزمية K-Means** يعمل مباشرة في المتصفح دون مكتبات خارجية أو اتصال بالإنترنت.
 
 ### Launch | فتح الدرس
-- **Live site (after GitHub Pages is enabled):** https://mohammednageebmubarak.github.io/kmeans-interactive/
+- **Live website | الموقع المباشر:** [Open interactive lesson | افتح الدرس](https://mohammednageebmubarak.github.io/kmeans-interactive/)
 - **Offline:** download [index.html](./index.html) and open it in your browser.
 - **GitHub Pages configuration:** Settings → Pages → Deploy from a branch → **main** → **/ (root)**.
 - **Repository name:** `kmeans-interactive` (already renamed).
